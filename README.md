@@ -1,6 +1,10 @@
 ## 活跃项目
 
-- **[dsh-chat-sessions](https://github.com/ZSQBFan/dsh-chat-sessions)** — DeepSeek Harness 独立对话插件，自一键创建带有独立工作区的会话
+**[dsh-chat-sessions](https://github.com/ZSQBFan/dsh-chat-sessions)**
+
+一个 [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) 独立对话插件，为日常问答和小型任务提供随手开始的入口。一键新建自带工作区与工作目录的会话，无需手动选择项目目录。
+
+独立对话集中在侧栏分组中，支持切换、置顶、归档与恢复，外观和交互贴近 DSH 原生体验。
 
 ## 不活跃项目
 
