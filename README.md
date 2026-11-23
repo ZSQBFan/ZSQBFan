@@ -6,6 +6,12 @@
 
 独立对话集中在侧栏分组中，支持切换、置顶、归档与恢复，外观和交互贴近 DSH 原生体验。
 
+**[dsh-openviking-skill-evolution](https://github.com/ZSQBFan/dsh-openviking-skill-evolution)**
+
+一个基于 OpenViking 的 DeepSeek Harness 技能自进化插件。从会话复盘中提炼可复用的做法，并生成技能改进提案，让技能随实际使用持续更新。
+
+支持自动更新、确认后更新或仅保存草稿，可预览改动并恢复到之前的技能版本。
+
 ## 不活跃项目
 
 - **[ambient-dashboard](https://github.com/ZSQBFan/ambient-dashboard)** — macOS Übersicht 桌面组件，提供时钟、音乐封面与系统状态。
